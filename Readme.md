@@ -51,14 +51,14 @@ The script `~/.acme_ph.cfg` will have to be created manually if you require defa
 
 #### Example 1
 
-**Site Domain:** `mysite.domain.tld`
-**Site root:** `/home/mysite`
-**Site public html:** `public_html`
-**Site conf** `mysite.domain.tld.conf`
-**Place holder file** `mysite.domain.tld.dummy.conf`
-**acme.sh** `~/.acme.sh/acme.sh`
-**sites available loc** `/etc/apache2/sites-available`
-**sites enabled loc** `/etc/apache2/sites-enabled`
+**Site Domain:** `mysite.domain.tld`  
+**Site root:** `/home/mysite`  
+**Site public html:** `public_html`  
+**Site conf** `mysite.domain.tld.conf`  
+**Place holder file** `mysite.domain.tld.dummy.conf`  
+**acme.sh** `~/.acme.sh/acme.sh`  
+**sites available loc** `/etc/apache2/sites-available`  
+**sites enabled loc** `/etc/apache2/sites-enabled`  
 **apache/httpd** `apache2`
 
 ```txt
@@ -67,14 +67,14 @@ The script `~/.acme_ph.cfg` will have to be created manually if you require defa
 
 #### Example 2
 
-**Site Domain:** `mysite.domain.tld`
-**Site root:** `/var/www/mysite`
-**Site public html:** `public`
-**Site conf** `mysite.conf`
-**Place holder file** `mysite.plaeholder.conf`
-**acme.sh** `/opt/acme/acme.sh`
-**sites available loc** `/etc/apache2/sites-available`
-**sites enabled loc** `/etc/apache2/sites-enabled`
+**Site Domain:** `mysite.domain.tld`  
+**Site root:** `/var/www/mysite`  
+**Site public html:** `public`  
+**Site conf** `mysite.conf`  
+**Place holder file** `mysite.plaeholder.conf`  
+**acme.sh** `/opt/acme/acme.sh`  
+**sites available loc** `/etc/apache2/sites-available`  
+**sites enabled loc** `/etc/apache2/sites-enabled`  
 **apache/httpd** `apache2`
 
 ```txt
