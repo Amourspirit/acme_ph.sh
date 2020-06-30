@@ -62,7 +62,7 @@ The script `~/.acme_ph.cfg` will have to be created manually if you require defa
 **apache/httpd** `apache2`
 
 ```txt
-/bin/bash /root/scripts/letsencrypt/acme_ph.sh -d 'mysite.domain.tld' -r '/home/mysite'`
+/bin/bash /root/scripts/letsencrypt/acme_ph.sh -d 'mysite.domain.tld' -r '/home/mysite'
 ```
 
 #### Example 2
